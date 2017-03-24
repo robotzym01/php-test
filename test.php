@@ -1,0 +1,1 @@
+<?php echo "LATIHAN OPENSHIFT PHP APPS"; ?>
