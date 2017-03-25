@@ -1,1 +1,1 @@
-<?php echo "LATIHAN OPENSHIFT PHP APPS"; ?>
+<?php echo "LATIHAN OPENSHIFT PHP APPS, EDITED"; ?>
